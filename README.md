@@ -1,7 +1,7 @@
 # aplikasi-administrasi-sekolah
 Aplikasi SIAPBAYAR adalah aplikasi administrasi sekolah, dimana aplikasi dibuat dengn Framework Codeigniter 3 dan php ver 7.4.x
 
-- Jika anda berminat silahkan dwonload file aplikasi tersebut.
+- Jika anda berminat silahkan dwonload file aplikasi tersebut ( Gratis Dwonload ).
 - Jika anda membutuhkan database silahkan hubungi
 	No. wa : 085641739560  (Chat Only). 
 	Email		: alifahrialanwar@gmail.com
